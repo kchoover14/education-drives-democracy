@@ -1,6 +1,6 @@
 # Two-Century Trend Analysis: Education, Wealth, and Democracy
 
-This project uses the V-Dem (Varieties of Democracy) dataset to examine whether educational equity predicts participatory democracy more reliably than wealth across two centuries and six world regions. Comparative scatterplots centered on 1895--1905 and 1995--2005 test the education--democracy relationship at two historical moments; a time series of four affluent nations (USA, Germany, Mexico, Brazil) tests whether wealth buffers democratic decline. The core finding: educational equity is a stronger and more consistent predictor of participatory democracy than wealth, and even the wealthiest nations show democratic decline when educational inequality rises.
+This project uses the V-Dem (Varieties of Democracy) dataset to examine whether educational equity predicts participatory democracy more reliably than wealth across two centuries and six world regions. Comparative scatterplots centered on 1895--1905 and 1995--2005 test the education--democracy relationship at two historical moments; a time series of four nations (USA, Germany, Mexico, Brazil) tests whether wealth buffers democratic decline. The core finding: educational equity is a stronger and more consistent predictor of participatory democracy than wealth, and even the wealthiest nations show democratic decline when educational inequality rises.
 
 ## Tools & Tech Stack
 
