@@ -5,7 +5,7 @@ This project uses the V-Dem (Varieties of Democracy) dataset to examine whether 
 ## Portfolio Page
 The portfolio page includes a full project narrative, key findings, and figures. [kchoover14.github.io/education-drives-democracy](https://kchoover14.github.io/education-drives-democracy)
 
-## Tools & Tech Stack
+## Tools & Technologies
 
 - **Languages:** R
 - **Tools:** RStudio, GitHub
