@@ -1,13 +1,13 @@
 ######################## LIBRARIES
 
-library(vdemdata)
-library(dplyr)
-library(ggplot2)
-library(plotly)
-library(forcats)
-library(janitor)
-library(colorBlindness)
-library(htmlwidgets)
+library(vdemdata) #data
+library(dplyr) #data wrangling
+library(ggplot2) #plots
+library(plotly) #animated plots
+library(forcats) #time series analysis
+library(janitor) #clean names
+library(colorBlindness) #test color blind friendly
+library(htmlwidgets) #create html files for animated plots
 
 ######################## GET DATA
 
