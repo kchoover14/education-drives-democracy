@@ -20,4 +20,3 @@ Full narrative, interactive figures, and policy recommendations: [kchoover14.git
 
 1. Run `education-drives-democracy.R` to generate all figures and interactive HTML widgets
 2. Figures and HTML files will be saved to the working directory
-3. Render `education-drives-democracy.qmd` with Quarto to produce the portfolio page
